@@ -1,15 +1,17 @@
 def rescue_princess_peach
+
+  puts "Hooray! Mario has rescued Princess Peach."
   status = "rescued"
-  puts status
 end
+
 
 
 
 
 ## Comment the below back in to see method scope in action!
 
-# rescue_princess_peachdsvsdv
-# puts status
+ rescue_princess_peach
+ #puts status
 
 
 
